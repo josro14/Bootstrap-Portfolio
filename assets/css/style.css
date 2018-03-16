@@ -63,3 +63,10 @@ p {
     float: left;
     padding-right: 15px;
 }
+
+.sec-row {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
